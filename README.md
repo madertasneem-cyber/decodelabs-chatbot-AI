@@ -27,24 +27,6 @@ This project was developed as part of the **DecodeLab Internship Program**.
 
 ---
 
-## 💬 Example Interaction
-
-```text
-User: hello
-Bot: 👋 Hello! I'm DecodeBot. How can I help you today?
-
-User: tell me a joke
-Bot: 😂 Why do programmers prefer dark mode?
-     Because light attracts bugs!
-
-User: calculate 10 + 5
-Bot: 🔢 Result: 15
-
-User: bye
-Bot: 👋 Goodbye! Happy coding!
-```
-
----
 
 ## 📁 Project Structure
 
