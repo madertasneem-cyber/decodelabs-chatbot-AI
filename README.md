@@ -1,2 +1,92 @@
-# decodelabs-chatbot-AI
-This is my week 1 first project of making chatbot-AI
+# 🤖 Rule-Based AI Chatbot
+
+## 📌 About This Project
+
+This is a simple **Rule-Based AI Chatbot** built using Python. The chatbot responds to user inputs using predefined rules implemented with `if-else` statements. It runs in a continuous loop, allowing users to interact with it until they choose to exit.
+
+This project was developed as part of the **DecodeLab Internship Program**.
+
+---
+
+## 🎯 Features
+
+* 👋 Greets users with friendly responses
+* 😂 Tells programming jokes
+* 📅 Displays the current date
+* ⏰ Shows the current time
+* 🔢 Solves basic mathematical calculations
+* 🚪 Exits gracefully when the user types `bye` or `exit`
+
+---
+
+## 🛠️ Technologies & Skills Used
+
+* Python
+* Conditional Statements (`if-else`)
+* String Handling
+* Loops (`while`)
+* Basic Chatbot Development Concepts
+
+---
+
+## 💬 Example Interaction
+
+```text
+User: hello
+Bot: 👋 Hello! I'm DecodeBot. How can I help you today?
+
+User: tell me a joke
+Bot: 😂 Why do programmers prefer dark mode?
+     Because light attracts bugs!
+
+User: calculate 10 + 5
+Bot: 🔢 Result: 15
+
+User: bye
+Bot: 👋 Goodbye! Happy coding!
+```
+
+---
+
+## 📁 Project Structure
+
+```text
+decodelabs-chatbot-AI/
+│
+├── chatbot.py
+└── README.md
+```
+
+### File Description
+
+* **chatbot.py** – Main Python file containing the chatbot logic and functionality.
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/madertasneem-cyber/decodelabs-chatbot-AI.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd decodelabs-chatbot-AI
+```
+
+3. Run the chatbot:
+
+```bash
+python chatbot.py
+```
+
+---
+
+## 🎓 Internship Project
+
+**DecodeLab Internship Program**
+
+**Intern:** Tasneem Maderwala
