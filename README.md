@@ -10,12 +10,10 @@ This project was developed as part of the **DecodeLab Internship Program**.
 
 ## 🎯 Features
 
-* 👋 Greets users with friendly responses
-* 😂 Tells programming jokes
-* 📅 Displays the current date
-* ⏰ Shows the current time
-* 🔢 Solves basic mathematical calculations
-* 🚪 Exits gracefully when the user types `bye` or `exit`
+* Greets users with friendly responses
+* Uses if-elif decision-making logic
+* Runs in a continuous loop
+* Supports exist commands
 
 ---
 
